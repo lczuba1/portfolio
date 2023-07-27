@@ -38,7 +38,7 @@ Silnie zmotywowany, gotowy na nowe wyzwania! W sierpniu 2022 postanowiłem, że 
 * [Python dla początkujących - Udemy](https://www.udemy.com/course/python-dla-poczatkujacych/)
 * [Linux - linia komend dla początkujących... - Udemy](https://www.udemy.com/course/linux101/)
 * [Kurs Selenium Python od podstaw - Udemy](https://www.udemy.com/course/kurs-selenium-python/) - w trakcie
-* [Kurs MySQL - Pasja Programowania]([https://www.udemy.com/course/kurs-selenium-python/](https://www.youtube.com/watch?v=99JAI24Zd24&list=PLOYHgt8dIdoymv-Wzvs8M-OsKFD31VTVZ)) - w trakcie
+* [Kurs MySQL - Pasja Programowania](https://www.youtube.com/watch?v=99JAI24Zd24&list=PLOYHgt8dIdoymv-Wzvs8M-OsKFD31VTVZ) - w trakcie
 * [Java Programming Masterclass updated to Java 17 - Udemy](https://www.udemy.com/course/java-the-complete-java-developer-course/) - zawieszony, planowany powrót
 ## Książki techniczne
 * Certyfikowany tester ISTQB - A.Roman, L.Stapp
