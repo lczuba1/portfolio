@@ -32,7 +32,7 @@ Silnie zmotywowany, gotowy na nowe wyzwania! W sierpniu 2022 postanowiłem, że 
   * ShareX
   * HandBrake
 ## Kursy i szkolenia
-* WSB Merito Warszawa - kierunek Tester Oprogramowania - studia podyplomowe - start 03.2023, planowane zakończenie 02.2024
+* [WSB Merito Warszawa - kierunek Tester Oprogramowania - studia podyplomowe - start 03.2023, planowane zakończenie 02.2024](https://github.com/lczuba1/seleniumWSB)
 * [Praktyczny kurs testowania oprogramowania - Udemy](https://www.udemy.com/course/praktyczny-kurs-testowania-oprogramowania/)
 * [Podstawy manualnego testowania oprogramowania - Udemy](https://www.udemy.com/course/kurs-testowania-oprogramowania/)
 * [Python dla początkujących - Udemy](https://www.udemy.com/course/python-dla-poczatkujacych/)
